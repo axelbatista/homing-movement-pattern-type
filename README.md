@@ -1,2 +1,2 @@
-# homing-movement-pattern-type
+# homing-movement-pattern-type towards the cursor (for game)
 
